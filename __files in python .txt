@@ -1,0 +1,29 @@
+myfile.txt
+
+we have to do these
+1. open
+2. read
+3. write
+4. delete
+5. close
+6. create
+
+(((
+go here
+    __files in python.py 
+)))
+
+file modes :
+
+    1. r ==> read        : open file for read and reise eror if file does not exist
+    2. w ==> write       : open file for write and reise eror if file does not exist
+    3. a ==> append      : search if there is any file named ... 
+                                if True ==> open for read and write
+                                if False ==> it will create the file with ... name
+    4. x ==> create      : create the file that does not exist
+
+delete =>
+we have to make the file before delete it
+
+
+    
